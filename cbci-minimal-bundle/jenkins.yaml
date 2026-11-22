@@ -1,0 +1,3 @@
+jenkins:
+  systemMessage: "Managed by CloudBees CI Configuration as Code"
+  numExecutors: 0

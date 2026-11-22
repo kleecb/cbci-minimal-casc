@@ -1,0 +1,6 @@
+id: "cbci-minimal"
+version: "1"
+apiVersion: "2"
+description: "Minimal CloudBees CI managed controller CasC bundle"
+jcasc:
+  - "jenkins.yaml"
